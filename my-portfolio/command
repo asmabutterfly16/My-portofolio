@@ -1,0 +1,2 @@
+npx nuxi@latest init my-portfolio -t ui/portfolio
+This is the command that make full website
